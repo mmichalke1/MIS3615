@@ -50,5 +50,3 @@ print('done')
 comp_num =0
 people_num = 0
 while comp_num != people num:
-
-
